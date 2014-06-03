@@ -2,10 +2,10 @@
   "name": "jquery-form",
   "repo": "virtru-components/jquery-form",
   "description": "jquery form to upgrade forms for ajax",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "keywords": [],
   "dependencies": {
-    "components/jquery": "*"
+    "components/jquery": "2.1.0"
   },
   "development": {},
   "license": "MIT",
