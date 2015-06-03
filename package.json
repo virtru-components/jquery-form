@@ -1,0 +1,8 @@
+{
+  "name": "jquery-form",
+  "description": "jquery form to upgrade forms for ajax",
+  "version": "3.6.0",
+  "dependencies": {
+    "jquery": "2.1.0"
+  }
+}
